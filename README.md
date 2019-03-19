@@ -11,7 +11,7 @@
 
 
 
-[//]: # ```markdown
+[//]: # ```In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition.
 # Preparation
 # Header 1
 ## Header 2
