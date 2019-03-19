@@ -1,6 +1,4 @@
----
-redirect_from: "README.md"
----
+
 # Welcome to this website!
 
 
