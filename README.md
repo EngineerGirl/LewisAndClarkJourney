@@ -1,7 +1,7 @@
 ## Welcome to this website!
 
 
-### [Stage 1](HomePage.md)
+### Stage 1
 ### Stage 2
 ### Stage 3
 ### Stage 4
@@ -11,11 +11,11 @@
 
 
 
-[//]: # ```In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition.
+[//]: # ```In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
 # Preparation
-# Header 1
-## Header 2
-### Header 3
+# Preparing for the epedition:
+## Final Preparation:
+### Noteworthy Occurrences/Quotes:
 
 - Bulleted
 - List
