@@ -1,7 +1,7 @@
 ## Welcome to this website!
 
 
-### [Stage 1](HomePage.md)
+### [Stage 1](https://engineergirl.github.io/LewisAndClarkJourney/home.md)
 ### Stage 2
 ### Stage 3
 ### Stage 4
