@@ -1,20 +1,14 @@
 
-# Welcome to this website!
+# Welcome to Stage 1!
 
 
 ## Stage 1
-# Preparation
+## Preparation
 # Preparing for the epedition:
-To prepare for the expedition, Lewis took a crash corse in the scientific skills of an Enlightenment explorer. He visited the "intellectuals of Philedelphia" and they gave him advice and questions. He brought a ton of books on
-
+To prepare for the expedition, Lewis took a crash corse in the scientific skills of an Enlightenment explorer. He visited the "intellectuals of Philedelphia" who then gave him advice and questions. Robert Patterson gave Lewis an astronomy notebook while Benjamin Rush provided He brought a ton of books on
 # Final Preparation:
 
 
-# markdown
-# Preparation
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
