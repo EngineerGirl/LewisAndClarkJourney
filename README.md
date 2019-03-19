@@ -5,7 +5,7 @@
 
 ### [Stage 1: Preparation](stage1.md)
 ### [Stage 2: Journey up the Missouri River](stage2.md)
-### [Stage 3: Winter in Fort Manda 1804-1805](stage3.md)
+### [Stage 3: Winter in Fort Mandan 1804-1805](stage3.md)
 ### [Stage 4: Into the Real Unknown](stage4.md)
 ### [Stage 5: Through the Rocky Mountains](stage5.md)
 ### [Stage 6: Reaching the Pacific Through the Columbia River](stage6.md)
