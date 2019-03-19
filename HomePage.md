@@ -1,4 +1,5 @@
-## Welcome to this website!
+redirect_from:"README.md"
+# Welcome to this website!
 
 
 ## Stage 1
