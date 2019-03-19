@@ -1,7 +1,7 @@
 ## Welcome to this website!
 
 
-### [Stage 1] (home.md)
+### [Stage 1](home.md)
 ### Stage 2
 ### Stage 3
 ### Stage 4
