@@ -1,17 +1,17 @@
 ## Welcome to this website!
 
 
-### [Stage 1](HomePage.md)
-### [Stage 2](secondPage.html)
-### Stage 3
-### Stage 4
-### Stage 5
-### Stage 6
-### Stage 7
+### [Stage 1](stage1.md)
+### [Stage 2](stage2.md)
+### [Stage 3](stage3.md)
+### [Stage 4](stage4.md)
+### [Stage 5](stage5.md)
+### [Stage 6](stage6.md)
+### [Stage 7](stage7.md)
 
 
 
-[//]: # ```In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
+[//]: # In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
 # Preparation
 # Preparing for the epedition:
 ## Final Preparation:
