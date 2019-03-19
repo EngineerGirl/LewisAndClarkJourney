@@ -1,19 +1,20 @@
 ## Welcome to this website!
 
 
-### [Stage 1](stage1.md)
-### [Stage 2](stage2.md)
-### [Stage 3](stage3.md)
-### [Stage 4](stage4.md)
-### [Stage 5](stage5.md)
-### [Stage 6](stage6.md)
-### [Stage 7](stage7.md)
+### [Stage 1- Preparation](HomePage.md)
+### Stage 2- Journey up The Missouri River
+### Stage 3- Winter in Fort Mandan 1904-1805
+### Stage 4- Into The Real Unknown
+### Stage 5- Through The Rocky Mountains
+### Stage 6- Reaching the Pacific Through The Columbia River
+### Stage 7- Returning Home
 
 
 
-[//]: # In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
+In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
 # Preparation
 # Preparing for the epedition:
+To prepare for the expedition, Lewis took a crash corse in the scientific skills of an Enlightenment explorer. He visited the "intellectuals of Philedelphia" and they gave him advice and questions. He brought a ton of books on 
 ## Final Preparation:
 ### Noteworthy Occurrences/Quotes:
 
