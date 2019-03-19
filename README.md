@@ -21,22 +21,9 @@
 
 
 In 1803, President Thomas Jefferson asked a man named Meriwether Lewis to lead an expedition. He would be accompanied by co-leader William Clark and a group of men to explore the U.S's new territory, find a water route to the Pacific Ocean for trading purposes, and make connections with the Native Americans. Lewis's Job was to be the scientist and keep detailed records of plants and animals that they found while Clark was the geographer, keeping a diary including many maps and drawings.
-# Preparation
-# Preparing for the epedition:
-To prepare for the expedition, Lewis took a crash corse in the scientific skills of an Enlightenment explorer. He visited the "intellectuals of Philedelphia" and they gave him advice and questions. He brought a ton of books on 
-## Final Preparation:
-### Noteworthy Occurrences/Quotes:
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
