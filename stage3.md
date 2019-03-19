@@ -1,5 +1,5 @@
 
-# Welcome to this website!
+# Welcome to Stage 3!
 
 
 ## Stage 3
