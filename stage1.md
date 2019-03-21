@@ -9,7 +9,8 @@ To prepare for the expedition, Lewis took a crash corse in the scientific skills
 ## Final Preparation:
 The expedition took a tun and grew to four times larger than what Jefferson has originally planned: 48 men with supplies for each one. The Louisiana Purchase benefitted the U.S. and also made them a representative of foreign power. When the Napoleon sold the Louisiana Territory to the U.S. Jefferson told the two exlorers that they would have to go through all the nations on the area. The French people in the territory must know that they are now under U.S. rule but it should be done peacefully. This means that the U.S. told the people that the U.S, is now their father but also their friends.
 ## Noteworthy occurrences/Quotes:
-- zkehf
+- "Flannel should be worn constantly next to the skin.": Benjamin Rush's advice to Lewis
+- "From what quarter of the Earth did (the Indians) emigrate?": Benjamin Barton's question for Lewis
 
 # [Back to home page](README.md)
 
