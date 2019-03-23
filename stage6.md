@@ -3,11 +3,16 @@
 
 
 # Reaching the Pacific Through the Columbia River
-## Insert Title Here:
+## Geography:
+- Cascade Mountains
+- Columbia River
+
+## Native Americans in the Region:
 Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
+## Noteworthy Occurences:
 Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
+
+## Travel/Clothing/Food/Supplies:
 Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
 
 
