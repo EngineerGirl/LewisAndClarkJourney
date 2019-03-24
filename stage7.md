@@ -3,11 +3,11 @@
 
 
 # Returning Home
-## Insert Title Here:
+
+## Noteworthy Occurences of the Journey Home:
 Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
-Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
+
+## Accomplishments:
 Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
 
 
