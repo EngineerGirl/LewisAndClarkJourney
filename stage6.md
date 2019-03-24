@@ -9,7 +9,7 @@
 
 ## Native Americans in the Region:
 The Corps of Discovery posed a threat to the Wishram, because the arrival of the Americans threatened their trade monopoly. The Native Americans and Americans had very different ideas about value, and what types of items were valuable. Many items prized by the Chinookans were based on their class system. The Americans ridiculed them for wanting these things, while they nearly traded everything they had for a few otter pelts.
-Both groups had a very different idea of trade. With the Native Americans, trade was about building 
+Both groups had a very different idea of trade. With the Native Americans, trade was about building a good relationship with trading partners, while for the Americans, it was just done for the sake of trade. This caused a lot of misunderstanding between them when it came to trade.
 
 ## Noteworthy Occurences:
 
