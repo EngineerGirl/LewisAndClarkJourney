@@ -3,15 +3,25 @@
 
 
 # Winter in Fort Mandan 1804 - 1805
-## Insert Title Here:
-Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
-Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-## Insert Title Here:
-Lorem ipsum dolor sit amet blah blah blah whatever write stuff more writing blah blah writing.
-
-
-
+## Native American maps v. european maps:
+- European maps are based on prescise measurement and calculations, as well as Latitude & Longitude. 
+- European maps were meant to show what the surrounding area looks like. 
+- Native American maps were diagrams of human landscape interactions. This means that the maps were drawn to show a journey/battle or a mythic act of some sort. 
+- They map routes, not rivers. Rivers were instead diagrammatical not representational.
+- The size of a map feature showed its importance not actual size and the view point is from the land scape. 
+- Any distances meant travel time.
+## Lewis & Clark's cartography techniques:
+- Celestial navigation: finding location based on Latitude and Longitude. This was in relation to the Sun, moon, or stars calculated with an octant or sextant.
+- Dead Reckoning: They kept track of factors such as direction changes and how far they traveled as well as the speed of the boat.
+## Native Americans & Sacagawea:
+- Some tribes held women in higher status then others.
+- women actually had a good amount of economic power.
+- Native American women had control of their children and owned anything they made. (this includes crafts and money)
+- Sacagawea adopted her sister's son and had two brothers. She was compassionate and kind while helping Lewis & Clark
+## Noteworthy occurrences:
+- The meeting of Sacagawea.
+- The men built a fort and stayed by the vilages to wait out the winter.
+## Travel / Clothing / Food / Supplies:
 
 
 
