@@ -3,8 +3,8 @@
 
 
 # Winter in Fort Mandan 1804 - 1805
-## Native American maps v. european maps:
-- European maps are based on prescise measurement and calculations, as well as Latitude & Longitude. 
+## Native American maps v. European Maps:
+- European maps are based on precise measurement and calculations, as well as Latitude & Longitude. 
 - European maps were meant to show what the surrounding area looks like. 
 - Native American maps were diagrams of human landscape interactions. This means that the maps were drawn to show a journey/battle or a mythic act of some sort. 
 - They map routes, not rivers. Rivers were instead diagrammatical not representational.
@@ -20,10 +20,13 @@
 - Sacagawea adopted her sister's son and had two brothers. She was compassionate and kind while helping Lewis & Clark
 ## Noteworthy occurrences:
 - The meeting of Sacagawea.
-- The men built a fort and stayed by the vilages to wait out the winter.
+- The men built a fort and stayed by the vilages to wait out the Winter.
 ## Travel / Clothing / Food / Supplies:
-
-
+- travel was hard when the current grew stronger.
+- boots and baggage
+- Hills with cacti
+- camped out at Fort Mandan for the Winter
+- Got supplies from the neighboring french town
 
 
 
