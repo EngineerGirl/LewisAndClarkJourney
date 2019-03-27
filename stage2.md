@@ -5,7 +5,7 @@
 # Journey Up the Missouri River
 ## Geography in the region:
 - The Missouri River
-- many streams branch off of the river
+- Many streams branch off of the river
 - Plains, farmland, burning coal beds, and sandbars
 - Pronghorn Antelope, mule deer, coyotes, prarie dogs, and horses
 ## Native Americans in the region (relations, trade, interactions, etc.):
@@ -18,7 +18,7 @@ When visiting the Sioux, Lewis attempted to give them gifts but they were seen a
 ## Travel / Clothing / Food / Supplies
 - Food was acquired through hunting
 - Pipe Tomahawk
-- various presents for the Natives
+- Various presents for the Natives
 - Boats of weapons & goods
 - Peace medal & gorget
 
