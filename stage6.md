@@ -6,6 +6,7 @@
 ## Geography:
 - Cascade Mountains
 - Columbia River
+- Pacific Ocean
 
 ## Native Americans in the Region:
 The two groups saw trading and wealth very differently. One culture, Americans, focused on acumulation of wealth, while the other culture, Native Americans, gained status by giving wealth away.
