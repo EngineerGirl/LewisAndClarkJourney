@@ -11,7 +11,7 @@
 - Rattlesnake
 - Flat plains
 
-## North Americans in the Region:
+## Native Americans in the Region:
 Some Native American tribes in the region were the Northern Plains Indians and the Mandan.
 
 ## Noteworthy occurrences/Quotes:
